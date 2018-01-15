@@ -7,6 +7,7 @@
     "zeromq": "^4.6.0"
   },
   "scripts":{
-    "all":"node w"
+    "p":"node p",
+    "w":"node w"
   }
 }

@@ -3,4 +3,4 @@ RUN mkdir -p /home/nodejs/app
 WORKDIR /home/nodejs/app
 COPY . /home/nodejs/app
 RUN yarn 
-CMD ["yarn","run","all"]
+CMD ["yarn","run","p"]
